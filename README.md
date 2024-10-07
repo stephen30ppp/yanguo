@@ -1,2 +1,1 @@
-[https://github.com/stephen30ppp/yanguo/blob/main/picture.jpg]
-yanguo
+![My Image](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-stephen30ppp/blob/profile-upload/picture.jpg)
